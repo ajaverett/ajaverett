@@ -81,17 +81,24 @@ Aug 2018 - Mar 2019
 
 # Did you know
 
-## AJ is in a relationship with a beautiful data engineer named Audrey Mae?
+### AJ is in a relationship with a beautiful data engineer named Audrey Mae?
 
 [![](https://img.youtube.com/vi/8qz3B9z03tA/0.jpg)](https://www.youtube.com/watch?v=8qz3B9z03tA)
 
+### AJ is a visiting fellow at YIP?
 
-## AJ is a visiting fellow at YIP?
+https://yipinstitute.org/people/aj-averett
 
-## AJ won three school-wide hackathons at his college?
+### AJ won three school-wide hackathons at his college?
 
-## AJ received a scholarship from SI SE PUEDE?
+https://www.idahostatejournal.com/community/byu-idaho-students-draw-inspiration-from-the-life-of-a-prophet/article_65858fd6-f59c-11ed-85fb-4f37e9813ae6.html
+https://byuiscroll.org/hackathon-advancing-technology-through-student-energy/
 
-## AJ is an Eagle Scout from the Boy Scouts of America?
+### AJ received a scholarship from SI SE PUEDE?
 
+https://www.linkedin.com/feed/update/urn:li:activity:7173749036003389441/
 
+### AJ is an Eagle Scout from the Boy Scouts of America?
+
+https://directory.scouting.org/alumni-profile/2E081471-886E-470C-92C7-452B186AA927/alumni-search
+(you need a BSA account)
