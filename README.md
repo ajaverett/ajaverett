@@ -75,12 +75,13 @@ Jun 2021 - Apr 2022
 
 ### [Baltimore Mission (Spanish Outreach)](https://www.facebook.com/BaltimoreMission/)
 **Technology Consultant**
-Baltimore, MD
+Baltimore, MD  
 Mar 2019 - Feb 2020
+
 
 ### [Lakeway Taekwondo, LLC](https://lakewaytkd.com/)
 **Martial Arts Youth Supervisor**
-Bee Cave, Texas
+Bee Cave, Texas  
 Aug 2018 - Mar 2019 
 
 ## Skills
