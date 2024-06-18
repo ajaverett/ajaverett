@@ -83,6 +83,9 @@ Aug 2018 - Mar 2019
 
 ## AJ is in a relationship with a beautiful data engineer named Audrey Mae?
 
+[![](https://img.youtube.com/vi/8qz3B9z03tA/0.jpg)](https://www.youtube.com/watch?v=8qz3B9z03tA)
+
+
 ## AJ is a visiting fellow at YIP?
 
 ## AJ won three school-wide hackathons at his college?
