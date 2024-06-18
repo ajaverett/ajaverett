@@ -87,7 +87,7 @@ Aug 2018 - Mar 2019
 
 ### AJ is a visiting fellow at YIP?
 
-https://yipinstitute.org/people/aj-averett
+[![](https://cdn.prod.website-files.com/6580bf6203485cf15c72a475/65935201d0c4400af2bee5f6_yipgraphmain.jpg)](https://yipinstitute.org/people/aj-averett)
 
 ### AJ won three school-wide hackathons at his college?
 
