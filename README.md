@@ -1,10 +1,9 @@
 # Alan J Averett
 
 ### Contact Information
-- 📞 832.856.4666
 - 📧 ajaverett0@gmail.com
-- [LinkedIn](https://linkedin.com/in/ajaverett)
-- [Portfolio](https://ajaverett.github.io)
+- 🟦[LinkedIn](https://linkedin.com/in/ajaverett)
+- 📁[Portfolio](https://ajaverett.github.io)
 
 ## Education
 **Brigham Young University- Idaho**  
@@ -12,14 +11,9 @@
 Major GPA: 3.8/4.0  
 Apr 2020 - Dec 2023
 
-**Certifications**:  
-- Web and Computer Programming (3.7/4.0)
-- Machine Learning (4.0/4.0)
-
 **Leadership and Awards**:  
 - Data Science Society President
-- SHPE Founding Member
-- Winner of 3 School-wide Hackathons
+- SHPE Founding Chapter Member
 
 ## Experience
 
