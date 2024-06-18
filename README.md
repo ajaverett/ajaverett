@@ -21,6 +21,7 @@ Apr 2020 - Dec 2023
 **Senior Consultant**  
 Norfolk, VA  
 May 2024 - Present  
+- Secret Clearance
 - Implemented end-to-end **ETL solutions** with **Databricks**, enabling data-driven insights and visualization on interactive **Qlik** dashboards for AIRLANT's Readiness Operation Center, using analytics tools including **Advana's Jupiter** (**PySpark, Python, SQL**).
 - Collaborated within an **Agile** framework using **Kanban and Scrum**, ensuring timely delivery of actionable insights for carrier readiness and operability assessments (obtained Secret Clearance).
 
@@ -45,16 +46,42 @@ Jul 2022 - Nov 2022
 - Analyzed and visualized voter data trends using **SQL** and **R’s tidyverse** to create digestible reports for over a hundred political campaigns, employing **machine learning models** to predict ideological disposition and turnout.
 - Improved accuracy and AUC of all future ML models by 1-3% by feature engineering **GIS data** to classify over 100 million voter records into 12 population density granularities using **R’s sf**.
 
-### [Mathematics Department- BYUI](https://byuidatascience.github.io/)
-**Chief Lab Manager and TA**  
+### [Mathematics Department- Brigham Young University - Idaho](https://byuidatascience.github.io/)
+**Chief Lab Manager**  
 Rexburg, ID  
 Apr 2022 - Dec 2023  
-- Coordinated all data science activities, managed all data science tutors, and taught various programming and statistics courses (**Python, Pandas, Numpy, Sympy, altair, sklearn, R, tidyverse, ggplot, Databricks, SQL, PySpark, Excel**).
+- Led and coordinated data science society activities and meetings; mentored and supported project teams including weekly bootcamps to teach data analysis/statistics and ML hyperparameter tuning, over 6 teams of ~ 6-12 people each
+- Managed, scheduled, and trained all tutors for all data science courses, school-wide for Data Science Lab (R and Python)
+
+**Teaching Assistant**
+Rexburg, ID  
+Apr 2022 - Dec 2023
+- DS250, Python (pandas, altair, sklearn, SQL)
+- DS350, R(tidyverse)
+- DS460, (PySpark, Spark SQL, DataBricks)
+- MATH221 Business Statistics, (Excel)
+- MATH341 Linear Algebra, (NumPy, SymPy)
+
+**Lab Tutor**
+Rexburg, ID  
+May 2022 - Mar 2023
+- Lab tutor over several intermediate statistics, programming, and data science courses
+
 
 ### [Lone Star Polypac](https://lspoly.com)
 **Technical Aide**  
 Wimberly, TX  
 Jun 2021 - Apr 2022
+
+### [Baltimore Mission (Spanish Outreach)](https://www.facebook.com/BaltimoreMission/)
+**Technology Consultant**
+Baltimore, MD
+Mar 2019 - Feb 2020
+
+### [Lakeway Taekwondo, LLC](https://lakewaytkd.com/)
+**Martial Arts Youth Supervisor**
+Bee Cave, Texas
+Aug 2018 - Mar 2019 
 
 ## Skills
 **Programming Languages**:  
