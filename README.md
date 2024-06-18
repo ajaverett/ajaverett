@@ -83,23 +83,23 @@ Aug 2018 - Mar 2019
 
 ### AJ is in a relationship with a beautiful data engineer named Audrey Mae?
 
-[![](https://img.youtube.com/vi/8qz3B9z03tA/0.jpg)](https://www.youtube.com/watch?v=8qz3B9z03tA)
+[![](https://img.youtube.com/vi/8qz3B9z03tA/0.jpg =100x56)](https://www.youtube.com/watch?v=8qz3B9z03tA)
 
 ### AJ is a visiting fellow at YIP?
 
-[![](https://cdn.prod.website-files.com/6580bf6203485cf15c72a475/65935201d0c4400af2bee5f6_yipgraphmain.jpg)](https://yipinstitute.org/people/aj-averett)
+[![](https://cdn.prod.website-files.com/6580bf6203485cf15c72a475/65935201d0c4400af2bee5f6_yipgraphmain.jpg =100x56)](https://yipinstitute.org/people/aj-averett)
 
 ### AJ won three school-wide hackathons at his college?
 
-[![](https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/d/b3/db315666-f59c-11ed-9c0c-77c1540fb539/6466590133239.image.png)](https://www.idahostatejournal.com/community/byu-idaho-students-draw-inspiration-from-the-life-of-a-prophet/article_65858fd6-f59c-11ed-85fb-4f37e9813ae6.html)
+[![](https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/d/b3/db315666-f59c-11ed-9c0c-77c1540fb539/6466590133239.image.png =100x56)](https://www.idahostatejournal.com/community/byu-idaho-students-draw-inspiration-from-the-life-of-a-prophet/article_65858fd6-f59c-11ed-85fb-4f37e9813ae6.html)
 
-[![](https://byuiscroll.org/wp-content/uploads/2023/11/People-waiting-for-award-annoucements-1280x640.png)](https://byuiscroll.org/hackathon-advancing-technology-through-student-energy/)
+[![](https://byuiscroll.org/wp-content/uploads/2023/11/People-waiting-for-award-annoucements-1280x640.png =100x56)](https://byuiscroll.org/hackathon-advancing-technology-through-student-energy/)
 
 ### AJ received a scholarship from SI SE PUEDE?
 
-[![](https://sisepuedescholarship.com/wp-content/uploads/2023/10/Foundation-Logo-Blue.png)](https://www.linkedin.com/feed/update/urn:li:activity:7173749036003389441/)
+[![](https://sisepuedescholarship.com/wp-content/uploads/2023/10/Foundation-Logo-Blue.png =100x56)](https://www.linkedin.com/feed/update/urn:li:activity:7173749036003389441/)
 
 ### AJ is an Eagle Scout from the Boy Scouts of America?
 
-[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBR_3dO9jAjHIyfHTFD3qGuv8z59ZoghjVMA&s)](https://directory.scouting.org/alumni-profile/2E081471-886E-470C-92C7-452B186AA927/alumni-search)
+[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBR_3dO9jAjHIyfHTFD3qGuv8z59ZoghjVMA&s =100x56)](https://directory.scouting.org/alumni-profile/2E081471-886E-470C-92C7-452B186AA927/alumni-search)
 (you need a BSA account)
