@@ -87,7 +87,9 @@ Aug 2018 - Mar 2019
     <img src="https://img.youtube.com/vi/8qz3B9z03tA/0.jpg" width="100" height="56" />
 </a>
 
-### AJ is part of the Hanyang Koo Clan of South Korea
+### AJ, born 구민섭 (具慜燮 or maybe 具敏燮), is the head of the Hanyang Koo Clan in South Korea
+
+(technically he is the only member) 
 
 ### AJ is a visiting fellow at YIP?
 
