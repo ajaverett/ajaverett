@@ -84,7 +84,7 @@ Aug 2018 - Mar 2019
 ### AJ is in a relationship with a beautiful data engineer named Audrey Mae?
 
 <a href="https://www.youtube.com/watch?v=8qz3B9z03tA">
-    <img src="https://img.youtube.com/vi/8qz3B9z03tA/0.jpg" width="100" height="56" />
+    <img src="https://img.youtube.com/vi/8qz3B9z03tA/0.jpg" width="200" height="112" />
 </a>
 
 ### AJ, born 구민섭 (具慜燮 or maybe 具敏燮), is the head of the Hanyang Koo Clan in South Korea
