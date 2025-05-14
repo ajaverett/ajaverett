@@ -120,6 +120,5 @@ Aug 2018 - Mar 2019
 </a>
 (you need a BSA account)
 
-<img src="https://www.mermaidchart.com/raw/8e25ab55-8e1a-4016-81f5-d63eaa3c1799?theme=light&version=v0.1&format=svg"/>
-
+[https://www.mermaidchart.com/raw/8e25ab55-8e1a-4016-81f5-d63eaa3c1799?theme=light&version=v0.1&format=svg](https://www.mermaidchart.com/raw/8e25ab55-8e1a-4016-81f5-d63eaa3c1799?theme=light&version=v0.1&format=svg)
 
