@@ -11,7 +11,7 @@ As a Senior Consultant and Data Engineer at Booz Allen Hamilton, AJ supports cri
 flowchart LR
 
  subgraph EOTPs["<b>Executive Office of the President of the United States</b><br>(EOP)"]
-        n6[" "]
+        
         POTUS["President of the United States; Commander-in-chief<br>(POTUS)"]
   end
  subgraph EXEC["<b>The Executive</b>"]
@@ -21,15 +21,15 @@ flowchart LR
         EXEC
         LEGIS["The Legislature"]
         JUDIC["The Judiciary"]
-        n1[" "]
+        
   end
  subgraph OSD["<b>Office of the Secretary of Defense</b><br>(OSD)"]
-        n7[" "]
+        
         SECDEF["Secretary of Defense<br>(SECDEF)"]
   end
  subgraph DOD["<b>Department of Defense</b><br>(DoD)"]
         OSD
-        n2[" "]
+        
   end
  subgraph IC["Inner Cabinet Departments"]
         DOS["Department of State"]
@@ -38,7 +38,7 @@ flowchart LR
         DOJ["Department of Justice"]
   end
  subgraph DON["<b>Department of the Navy</b><br>(DON)"]
-        n3[" "]
+        
         SECNAV["<b>Office of the Secretary of the Navy</b><br>(Navy Secretariat)<br><br>Secretary of the Navy<br>(SECNAV)"]
   end
  subgraph MD["Military Departments"]
@@ -47,15 +47,15 @@ flowchart LR
         DAF["Department of the Air Force"]
   end
  subgraph OCNO["<b>Office of the Chief of Naval Operations</b><br>(OPNAV)"]
-        n8[" "]
+        
         OCNO2["Chief of Naval Operations<br>(CNO)"]
   end
  subgraph NAVY["<b>United States Navy</b><br>(USN)"]
         OCNO
-        n4[" "]
+        
   end
  subgraph USFFC["<b>U.S. Fleet Forces Command</b><br>(USFFC)"]
-        n5[" "]
+        
         USFFC2["Commander<br>(COMFLTFORCOM)"]
   end
  subgraph OF["Operating Forces<br>(Fleet)"]
@@ -70,7 +70,7 @@ flowchart LR
         COMCYBER["U.S. Fleet Cyber Command"]
   end
  subgraph AIRLANT["<b>Naval Air Force Atlantic</b><br>(CNAL; AIRLANT)"]
-        n9[" "]
+        
         AIRLANT2["Commander (COMNAVAIRLANT)"]
   end
  subgraph TYCOM["Type Commanders (TYCOMs)"]
@@ -85,14 +85,14 @@ flowchart LR
         DIR2["Other Directorates"]
   end
  subgraph N43["<b>CVN Readiness Operations Center </b><br>(CVN ROC)"]
-        n10[" "]
+        
         ROC_a["ROC Officer<br>(N437)"]
   end
  subgraph boozDS["<b>Data Science</b>"]
         ROC_d["<b>ROC Data Scientist</b><br>(N437E.9110)"]
   end
  subgraph booz["<b>Booz Allen Hamilton</b><br>(BAH)"]
-        n11[" "]
+        
         boozDS
         ROC_b["<b>ROC Project Manager</b><br>(N437R)"]
         ROC_c["<b>ROC Tech Lead</b><br>(N437E.91)"]
@@ -116,17 +116,6 @@ flowchart LR
     CVNMM L_CVNMM_N43_0@--> N43
     N43 L_N43_ROC_b_0@--> ROC_b
     DIR --> DIR3
-    n6@{ img: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Seal_of_the_Executive_Office_of_the_President_of_the_United_States_2014.svg", h: 100, w: 100, pos: "b"}
-    n1@{ img: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg", h: 100, w: 100, pos: "b"}
-    n7@{ img: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Office_of_the_Secretary_of_Defense_identification_badge.svg", h: 100, w: 100, pos: "b"}
-    n2@{ img: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Seal_of_the_United_States_Department_of_Defense.svg", h: 100, w: 100, pos: "b", constraint: "on"}
-    n3@{ img: "https://upload.wikimedia.org/wikipedia/commons/0/09/Seal_of_the_United_States_Department_of_the_Navy.svg", h: 100, w: 100, pos: "b"}
-    n8@{ img: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Seal_of_the_Chief_of_Naval_Operations.svg", h: 100, w: 100, pos: "b"}
-    n4@{ img: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Emblem_of_the_United_States_Navy.svg", h: 100, w: 100, pos: "b"}
-    n5@{ img: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Seal_of_the_Commander_of_the_United_States_Fleet_Forces_Command.svg", h: 100, w: 100, pos: "b"}
-    n9@{ img: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Cnal_airlant_logo.png", h: 100, w: 100, pos: "b"}
-    n10@{ img: "https://upload.wikimedia.org/wikipedia/commons/8/83/Cvn_readiness_operations_center_logo.png", h: 100, w: 100, pos: "b"}
-    n11@{ img: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Booz-Allen-Hamilton_Pearl_11.25.24-400x400.png", h: 150, w: 150, pos: "l"}
     style POTUS stroke:#FFFFDE, fill:#FFFFDE  
     style EXEC fill:#ECECFF
     style SECDEF stroke:#FFFFDE, fill:#FFFFDE
